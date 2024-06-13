@@ -128,6 +128,10 @@ nav ul li a {
     text-align: center;
 }
 
+h3{
+    font-size: 20px;
+}
+
 .service-item h3 {
     margin-bottom: 10px;
 }
